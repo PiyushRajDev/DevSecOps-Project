@@ -132,8 +132,5 @@ kubectl apply -f deployment.yaml
 
 This project is part of my journey into **DevSecOps**. I'm always experimenting with cloud deployment, security, and automation. If you're working on something similar, feel free to connect!
 
-## License
-
-This project is licensed under the MIT License.
 
 
